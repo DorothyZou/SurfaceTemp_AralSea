@@ -1,5 +1,5 @@
 # SurfaceTemp_AralSea
-This project aims to monitor time-series changes of the Aral Sea and its surrounding environment through surface temperature method between 1988 and 2018. It utilized and analyzed the Landsat data (open &amp; free imagery source) with Google Earth Engine (GEE) to observe the surface temperature changes. The GEE codes are available [here](https://github.com/DorothyZou/SurfaceTemp_AralSea/blob/master/surface_temp.js). You can also directly jump to the [manual](##Manual).
+This project aims to monitor time-series changes of the Aral Sea and its surrounding environment through surface temperature method between 1988 and 2018. It utilized and analyzed the Landsat data (open &amp; free imagery source) with Google Earth Engine (GEE) to observe the surface temperature changes. The GEE codes are available [here](https://github.com/DorothyZou/SurfaceTemp_AralSea/blob/master/surface_temp.js). You can also directly jump to the [manual](#manual).
 ## Introduction
 Study Area - Aral Sea:
 
