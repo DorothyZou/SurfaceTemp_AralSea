@@ -21,7 +21,7 @@ More details - please go to [result images](https://github.com/DorothyZou/Surfac
 
 ## Methodology & Process:
 
-<img src="README_img/methodology_surtemp.jpg" width="50%" height="50%" style="display:block;margin-left: auto;margin-right: auto;">
+<img src="README_img/methodology_surtemp.jpg" width="70%" height="85%" style="display:block;margin-left: auto;margin-right: auto;">
 
 ## Manual
 
